@@ -46,8 +46,22 @@ body {
 	}
 }
 
+.col1_4 {
+	float:left;
+	width: 25%;
+}
+
+.col3_4 {
+	float:left;
+	width: 75%;
+}
+
 .col-wrapper {
-	margin: 0 50px;
+	margin: 0 60px;
+}
+
+.article {
+	margin: 12px;
 }
 
 .content-panel {
