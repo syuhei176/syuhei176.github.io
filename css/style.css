@@ -46,6 +46,10 @@ body {
 	}
 }
 
+.col-wrapper {
+	margin: 0 50px;
+}
+
 .content-panel {
 	width: 204px;
 	height: 222px;
